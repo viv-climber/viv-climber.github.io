@@ -33,4 +33,3 @@ Finally, we conclude that the only solutions are $f(x) = x$ and $f(x) = \frac{1}
 
 ## Remarks
 This problem has been taken from OTIS Excerpts, by Evan Chen, &3.7 Problem 43 (IMO 2008)
-...
