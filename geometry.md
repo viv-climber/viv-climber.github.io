@@ -1,6 +1,11 @@
 ---
+layout: page
 title: Geometry
 permalink: /geometry/
 ---
 
-Notes and problems related to olympiad geometry.
+{% for post in site.posts %}
+  {% if post.category == "geometry" %}
+  - [{{ post.title }}]({{ post.url }})
+  {% endif %}
+{% endfor %}
