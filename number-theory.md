@@ -1,6 +1,11 @@
 ---
-title: Number Theory
+layout: page
+title: Number theory
 permalink: /number-theory/
 ---
 
-Notes and problems related to olympiad number theory.
+{% for post in site.posts %}
+  {% if post.category == "number-theory" %}
+  - [{{ post.title }}]({{ post.url }})
+  {% endif %}
+{% endfor %}
