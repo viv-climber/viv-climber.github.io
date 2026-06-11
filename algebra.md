@@ -1,6 +1,11 @@
 ---
-title: algebra
+layout: page
+title: Algebra
 permalink: /algebra/
 ---
 
-Notes and problems related to olympiad algebra.
+{% for post in site.posts %}
+  {% if post.category == "algebra" %}
+  - [{{ post.title }}]({{ post.url }})
+  {% endif %}
+{% endfor %}
