@@ -5,7 +5,7 @@ category: algebra
 ---
 
 ## Problem
-Find every function $f$ from $\R \gt 0$ to $\R \gt 0$
+Find every function $f$ from $\mathbb{R} \gt 0$ to $\mathbb{R} \gt 0$
 $\frac{f(x^2) + f(y^2)}{f(w)^2 + f(z)^2} = frac{x^2 + y^2}{w^2 + z^2}$
 where $x \times y = w \times z$
 ...
