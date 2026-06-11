@@ -5,7 +5,7 @@ category: algebra
 ---
 
 ## Problem
-Find every function $f$ from $\mathbb{R}_{>0}$ to $\mathbb{R}_{>0}$ 
+Find every function $f$ from $\mathbb{R}_{>0}$ to $mathbb{R}_{>0}$
 $$
 \frac{f(x^2) + f(y^2)}{f(w)^2 + f(z)^2} = \frac{x^2 + y^2}{w^2 + z^2}
 $$
